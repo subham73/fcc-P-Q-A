@@ -1,3 +1,2 @@
 # fcc-P-Q-A
-SOLUTIONS to FreeCodeCamps PYTHON exercises.
-HAPPY CODING :-)
+python solution to the exercises for FreeCodeCamps
