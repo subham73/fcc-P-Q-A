@@ -1,8 +1,6 @@
-# fcc-P-Q-A
-PYTHON FOR EVERYBODY
+PYTHON FOR EVERYBODY SOLUTIONS
 =======
-
-python solution to the exercises for FreeCodeCamps
+# fcc-P-Q-A
 SOLUTIONS to FreeCodeCamps PYTHON exercises.
 HAPPY CODING :-)
 
