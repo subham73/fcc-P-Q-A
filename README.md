@@ -1,4 +1,5 @@
-PYTHON FOR EVERYBODY SOLUTIONS
+PYTHON FOR EVERYBODY 
+excercise solution
 =======
 # fcc-P-Q-A
 SOLUTIONS to FreeCodeCamps PYTHON exercises.
