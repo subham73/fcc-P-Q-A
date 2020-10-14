@@ -1,7 +1,6 @@
 PYTHON FOR EVERYBODY 
 =======
-excercise solution
 # fcc-P-Q-A
-SOLUTIONS to FreeCodeCamps PYTHON exercises.
+SOLUTIONS to FreeCodeCamps/coursera PYTHON exercises.
 HAPPY CODING :-)
 
